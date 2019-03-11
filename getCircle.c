@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+//upload to github at 3.10.2019
 typedef struct{
   double x;
   double y;
